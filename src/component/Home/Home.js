@@ -13,14 +13,14 @@ const Home = () => {
             .then(data => setUsers(data));
     }, [])
     const [addedMember, setAddedMember] = useState([]);
-    // const [addedPrice, setAddedPrice] = useState([]);
+    const [addedPrice, setAddedPrice] = useState([]);
    
 
     const handleAddToCart = (cart) => {
        
         
-        // const newAddedPrice = [...addedPrice, newMember];
-        // setAddedPrice(newAddedPrice);
+        const newAddedPrice = [...addedPrice, cart];
+        setAddedPrice(newAddedPrice);
        
         const newAddedmember = [...addedMember, cart];
         setAddedMember(newAddedmember);
@@ -42,9 +42,9 @@ const Home = () => {
                              {
                                users.map((cart) => (
                                 <Cart
-                                    handleAddToCart={handleAddToCart}
-                                    key={cart._id.value}
+                                    key={cart.value}
                                     cart={cart}
+                                    handleAddToCart={handleAddToCart}
                                  ></Cart>))
                               }
                              </div>
