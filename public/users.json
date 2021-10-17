@@ -450,51 +450,6 @@
     "favoriteFruit": "strawberry"
   },
   {
-    "_id": "61508d77d60d36f9bee4cc58",
-    "index": 10,
-    "guid": "f6fef103-22b2-4fd3-bd10-5d3106e07272",
-    "isActive": false,
-    "balance": "6765",
-    "picture": "https://scontent.fcgp1-1.fna.fbcdn.net/v/t1.6435-9/159171620_1817776858394146_6471325266877643866_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=f6cSmbRSOG0AX95bVdh&_nc_ht=scontent.fcgp1-1.fna&oh=d245c929413c3fdefd382241fab9b25d&oe=61753A73",
-    "age": 22,
-    "eyeColor": "green",
-    "name": "Md Abdullah Al Amin",
-    "gender": "male",
-    "company": "EURON",
-    "email": "mossburnett@euron.com",
-    "phone": "+1 (906) 572-2687",
-    "address": "132 Ocean Parkway, Maplewood, American Samoa, 1814",
-    "about": "Eiusmod eiusmod Lorem cupidatat reprehenderit. Ex esse et ex tempor officia. Minim consectetur elit commodo velit sit amet fugiat ea est adipisicing deserunt esse esse. Dolore cillum ad voluptate non adipisicing nulla dolore eu ullamco id nulla. In proident aliquip nisi officia exercitation adipisicing adipisicing velit nulla magna in dolor eiusmod anim.\r\n",
-    "registered": "2014-09-20T09:26:22 -06:00",
-    "latitude": -62.097707,
-    "longitude": 59.209167,
-    "tags": [
-      "sunt",
-      "sunt",
-      "nulla",
-      "ea",
-      "in",
-      "aliqua",
-      "ut"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Eve Moreno"
-      },
-      {
-        "id": 1,
-        "name": "Coffey Bruce"
-      },
-      {
-        "id": 2,
-        "name": "Jeanine Tate"
-      }
-    ],
-    "greeting": "Hello, Moss Burnett! You have 8 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
     "_id": "61508d7741b5f3605abd50ea",
     "index": 11,
     "guid": "67feae7a-6a55-48c3-b2dd-91cf227b6842",
